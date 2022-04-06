@@ -13,8 +13,8 @@ Il faut fournir :
 
     1.une version électronique qui sera envoyée par email,
     2.un dossier imprimé sur papier qui sera donné à l'enseignant.
-  Ces deux dossiers doivent comporter 
-        1.un rapport présentant le travail, les choix faits et les difficultés rencontrées,
+    Ces deux dossiers doivent comporter:
+       1.un rapport présentant le travail, les choix faits et les difficultés rencontrées,
         2.un listing du programme, c'est-à-dire toutes les lignes du code,
         3.un mode d'emploi explicite et
         4.l'impression de traces d'exécution.
