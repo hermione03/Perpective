@@ -70,7 +70,7 @@ void traitement(int grille[TMAX][TMAX], int n)
         for (j = 0; j < n; j++)
         {
             c = grille[1][j];
-            d = grille[n - 1][j];
+            d = grille[n][j];
             possible(a, b, c, d);
         }
     }
